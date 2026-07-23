@@ -1,0 +1,57 @@
+================================================================================
+BANK MARKETING CAMPAIGN ANALYSIS
+================================================================================
+
+Total Customers : 45211
+Subscribed : 0
+Not Subscribed : 0
+Subscription Rate : 0.00%
+
+TOP JOBS
+Job
+blue-collar      9732
+management       9458
+technician       7597
+admin.           5171
+services         4154
+retired          2264
+self-employed    1579
+entrepreneur     1487
+unemployed       1303
+housemaid        1240
+Name: count, dtype: int64
+
+AGE SUMMARY
+count    45211.000000
+mean        40.936210
+std         10.618762
+min         18.000000
+25%         33.000000
+50%         39.000000
+75%         48.000000
+max         95.000000
+Name: Age, dtype: float64
+
+BALANCE SUMMARY
+count     45211.000000
+mean       1362.272058
+std        3044.765829
+min       -8019.000000
+25%          72.000000
+50%         448.000000
+75%        1428.000000
+max      102127.000000
+Name: Balance, dtype: float64
+
+BUSINESS RECOMMENDATIONS
+
+1. Focus marketing campaigns on the highest converting customer segments.
+2. Increase campaign efforts during the best-performing months.
+3. Prioritize customers with higher account balances.
+4. Improve campaign strategies for low-performing customer groups.
+5. Optimize call duration to improve conversion rates.
+6. Use previous campaign results to target likely subscribers.
+7. Develop personalized offers for different job categories.
+8. Strengthen digital marketing for younger customers.
+9. Reduce unnecessary campaign contacts to lower marketing costs.
+10. Build predictive models for future marketing campaigns.
