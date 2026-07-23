@@ -230,7 +230,7 @@ python main.py
 
 # 📷 Dashboard Preview
 
-> ![https://github.com/Daniyal07420/Bank-Marketing-Campaign-Analysis/blob/main/Dashboard_Preview.png?raw=true]
+> ![🏦 Bank Marketing Campaign Analysis Dashboard](https://github.com/Daniyal07420/Bank-Marketing-Campaign-Analysis/blob/main/Dashboard_Preview.png?raw=true)
 
 ---
 
