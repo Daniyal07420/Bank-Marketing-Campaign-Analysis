@@ -194,8 +194,11 @@ Bank-Marketing-Campaign-Analysis
 ├── reports
 │   └── Business_Report.txt
 │
-├── main.py
+├── Code
+│    └── Main.py
+│
 ├── requirements.txt
+├── Dashboard_Preview
 ├── LICENSE
 ├── README.md
 └── .gitignore
@@ -227,13 +230,7 @@ python main.py
 
 # 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
-
-Example:
-
-```
-dashboard/Dashboard.png
-```
+> ![https://github.com/Daniyal07420/Bank-Marketing-Campaign-Analysis/blob/main/Dashboard_Preview.png?raw=true]
 
 ---
 
